@@ -4,7 +4,7 @@
 ### About
 This is a reactjs component that is used for creating a horizontal scroll effect when users interact with webpages. The component was built on a sample create-react-app project template from which the re-useable portion was extracted as a seperate project. This is a functional component that relies on functional component hooks and thus, may not be suitabe for older react porjects.
 
-Visit my sample portfolio website that uses this component at [The Lamborghini Safari](https://lamborghini-safari-react.netlify.app/). This should give you an idea of what to expect.
+Visit my sample portfolio website that uses this component at [The Lamborghini Safari](https://lamborghini-safari-react.netlify.app/). This should give you an idea of what to expect. Also, this effect is brought into effect for webpages being served on device with >= 1200px.
 
 ### Built Using
 - React JS
